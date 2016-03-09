@@ -127,6 +127,8 @@
         "script/desktop.sh",
         "script/vmware.sh",
         "script/virtualbox.sh",
+        "script/extra-repos.sh",
+        "script/toolbox.sh",
         "script/parallels.sh",
         "script/cmtool.sh",
         "script/docker.sh",
@@ -170,4 +172,3 @@
     "vmware_guest_os_type": "centos-64"
   }
 }
-
